@@ -47,4 +47,4 @@
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=velagapudirushi&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velagapudirushi&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages">
+
