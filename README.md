@@ -47,4 +47,3 @@
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=velagapudirushi&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub stats">
-
